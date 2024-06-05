@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "name": "Complete Project Report",
+      "priority": "high",
+      "status": "in progress"
+    },
+    {
+      "name": "Email Client Update",
+      "priority": "medium",
+      "status": "todo"
+    },
+    {
+      "name": "Schedule Team Meeting",
+      "priority": "low",
+      "status": "done"
+    },
+    {
+      "name": "Review Code",
+      "priority": "high",
+      "status": "todo"
+    },
+    {
+      "name": "Update Website",
+      "priority": "medium",
+      "status": "in progress"
+    }
+  ]
+}
